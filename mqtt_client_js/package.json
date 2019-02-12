@@ -1,0 +1,26 @@
+{
+  "name": "mqtt_client_js",
+  "version": "1.0.0",
+  "description": "MQTT Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marti1125/symbio_creation_electronics.git"
+  },
+  "keywords": [
+    "mqtt",
+    "nodejs"
+  ],
+  "author": "Willy Aguirre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marti1125/symbio_creation_electronics/issues"
+  },
+  "homepage": "https://github.com/marti1125/symbio_creation_electronics#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
